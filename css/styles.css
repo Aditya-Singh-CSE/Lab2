@@ -1,0 +1,28 @@
+.toptable{
+  margin-left: 23%;
+  width: 80%;
+  height: 10%;
+}
+.secondtable{
+  margin-left:23%;
+  margin-right: 20%;
+  align-content: flex-start;
+}
+.labhours{
+  background-color: red;
+}
+.electivehours{
+  background-color: yellow;
+}
+.seminar{
+  background-color: green;
+}
+.aptr{
+  background-color: #ffc252;
+}
+.other{
+  background-color: #24ff24;
+}
+.repr{
+  background-color: powderblue
+}
